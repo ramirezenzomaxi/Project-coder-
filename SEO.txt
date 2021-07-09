@@ -1,0 +1,12 @@
+Cambios SEO realizados e introducidos en el proyecto web:
+
+
+Injercion de ETIQUETAS META
+con el uso apropiado de "DESCRIPTION" 
+uso de "KEYWORDS"
+Tambien se implementaron etiquetas de PROTOCOLO OPEN GRAPH para el posicionamiento 
+en redes sociales.
+Una etiqueta unica h1 en el index para sobresaltar el titulo clave. En la seccion servicios
+se utilizó en cada titulo para resaltarlos ya que ellos 6 son muy importantes y especificos.
+Las etiquetas ALT fueron completadas correctamente para describir las imagenes.
+Y se implementó ademas el MAXIMUM SCALE 5.0 sugerido en clase para su practicidad.
